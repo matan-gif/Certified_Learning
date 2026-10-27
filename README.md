@@ -16,4 +16,4 @@ The thesis covers two questions:
 | File | Contents |
 |---|---|
 | [`msc_thesis_certified_learning.pdf`](msc_thesis_certified_learning.pdf) | Full thesis |
-| [`certified_learning_presentation.pdf`](certified_learning_presentation.pdf) | Presentation slides |
+| [`thesis_presentation.pdf`](thesis_presentation.pdf) | Presentation slides |
